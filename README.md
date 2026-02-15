@@ -1,5 +1,5 @@
 # stochastic-processes-modeling
-This repository contains implementations of fundamental stochastic process models developed as part of a graduate-level Stochastic Processes course.
+This repository contains implementations of fundamental stochastic process models developed as part of a Stochastic Processes course.
 
 The project includes:
 
